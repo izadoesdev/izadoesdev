@@ -39,10 +39,6 @@ i'm building **modern tooling for the modern web**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izadoesdev&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=izadoesdev&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 ## 🛜 socials & site
