@@ -47,7 +47,6 @@ i'm building **modern tooling for the modern web**
 
 ## 🛜 socials & site
 
-[![Website](https://img.shields.io/badge/www.ihyd.xyz-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ihyd.xyz)
 [![X](https://img.shields.io/badge/@izadoesdev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/izadoesdev)
 [![GitHub](https://img.shields.io/badge/GitHub-izadoesdev-181717?style=for-the-badge&logo=github)](https://github.com/izadoesdev)
 
