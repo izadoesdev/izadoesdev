@@ -5,6 +5,8 @@
 i'm building **modern tooling for the modern web**  
 → fast, typed, scalable systems that *feel right™* to use.
 
+check out [Databuddy](https://www.databuddy.cc)
+
 ---
 
 ## 🧰 stack mode: always typed
